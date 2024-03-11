@@ -1,6 +1,6 @@
 
 # example() goes through a single contest of length t (user input)
-# with t bets (so i = 0, ..., t) of specified size (user input)
+# with t bets (so i = 0, ..., t-1) of specified size (user input)
 # on either A or B (user input)
 # by one of C, D, F, or G (user input).
 # at the end the total winnings of each of C, D, F, G are printed,
